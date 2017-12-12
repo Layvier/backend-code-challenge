@@ -11,4 +11,4 @@ exports.register = async function (server, options) {
     });
 };
 
-exports.name = 'core';
+exports.name = 'base';
