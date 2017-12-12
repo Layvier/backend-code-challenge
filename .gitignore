@@ -10,3 +10,4 @@
 /vendor/
 /bin/
 .idea
+node_modules
