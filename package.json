@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "import:neo": "node ./src/neo/import_neo.script.js",
-    "test": "jest ./test --verbose",
+    "test": "jest ./test --verbose --forceExit",
     "start": "node ./src/server.js",
     "watch": "nodemon ./src/server.js"
   },
